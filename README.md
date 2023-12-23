@@ -3,6 +3,9 @@
     - npm create vite@latest
     - React + Javascript
     - Configured TailwindCSS
+    - Header
+    - Login Form
+    - Sign Up Form 
 
 # Features
 
@@ -17,7 +20,7 @@
     - Title & description
     - Movie Suggestions
       - Movies List * N
-      
+
 - NetflixGPT
   - Search Bar
   - Movie Suggestions
