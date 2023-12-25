@@ -29,6 +29,10 @@
     - Update store with trailer video data
     - Embedded the youtube video & make it autoplay and mute
     - Added tailwind for main container
+    - Created usePopularMovies , useTopRatedMovies & useUpcoming movies custom hooks
+    - GPT Search feature with Search bar
+    - (Feature) Multi-language feature in our app
+
 
 # Features
 
