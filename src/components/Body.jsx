@@ -23,3 +23,16 @@ const Body = () => {
 };
 
 export default Body;
+
+{/* <div className="p-6">
+<div className="font-semibold text-3xl m-4">
+  <h1>{title}</h1>
+</div>
+<div className="flex overflow-x-scroll ">
+  <div className="flex m-4">
+    {movies.map((movie) => (
+      <MovieCard key={movie.id} posterPath={movie.poster_path} />
+    ))}
+  </div>
+</div>
+</div> */}
